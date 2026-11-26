@@ -12,3 +12,4 @@
 - [7주차 - Docker Compose, nginx, healthcheck](./week07/)
 - [9주차 - 쿠버네티스 첫 배포](./week09/)
 - [10주차 - Deployment와 Service](./week10/)
+- [11주차 - 쿠버네티스 설정과 상태 점검](./week11/)
