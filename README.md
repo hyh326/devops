@@ -10,3 +10,5 @@
 - [5주차 - Docker와 GitHub Issue](./week05/)
 - [6주차 - Dockerfile & ghcr.io 배포](./week06/)
 - [7주차 - Docker Compose, nginx, healthcheck](./week07/)
+- [9주차 - 쿠버네티스 첫 배포](./week09/)
+- [10주차 - Deployment와 Service](./week10/)
